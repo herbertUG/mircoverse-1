@@ -2,8 +2,7 @@ body{
     background-color: #eee;
 }
 
-
-.headerStyle{
+.headerStyle {
     background-color: #000000;
     color: #ffffff;
     font-size: 20px;
@@ -11,3 +10,14 @@ body{
     padding: 10px;
     text-align: center;
 }
+
+#image {
+    display: block;
+    max-width: 100%;
+}
+
+#img-caption  {
+   text-align: center;
+   margin-top: 2px;
+}
+
